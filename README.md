@@ -1,2 +1,1 @@
-# UAS
-Sistem Informasi Kepegawaian (SIPEGAWAI) sebagai materi UAS Analisis Desain dan Sistem Kelas C Universitas Diponegoro
+[SISTEM INFORMASI KEPEGAWAIAN.docx](https://github.com/anggiep/SIPEGAWAI/files/10262050/SISTEM.INFORMASI.KEPEGAWAIAN.docx)
